@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Timkiemhanghoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|F:\\Timkiemhanghoa\\timkiemhanghoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|solutionrelative:timkiemhanghoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|f:\\timkiemhanghoa\\timkiemhanghoa\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|solutionrelative:timkiemhanghoa\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|F:\\Timkiemhanghoa\\timkiemhanghoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AD6DBE8-EE90-4F70-B193-4B43F1DFDCC4}|Timkiemhanghoa\\Timkiemhanghoa.csproj|solutionrelative:timkiemhanghoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "Timkiemhanghoa\\Classes\\DataProcesser.cs",
+              "ToolTip": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Classes\\DataProcesser.cs",
+              "RelativeToolTip": "Timkiemhanghoa\\Classes\\DataProcesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:33:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Form1.cs",
+              "RelativeDocumentMoniker": "Timkiemhanghoa\\Form1.cs",
+              "ToolTip": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Form1.cs",
+              "RelativeToolTip": "Timkiemhanghoa\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:30:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Form1.cs",
+              "RelativeDocumentMoniker": "Timkiemhanghoa\\Form1.cs",
+              "ToolTip": "F:\\Timkiemhanghoa\\Timkiemhanghoa\\Form1.cs [Design]",
+              "RelativeToolTip": "Timkiemhanghoa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:10:42.642Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
